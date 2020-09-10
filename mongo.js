@@ -7,6 +7,6 @@ const getMongo = async () => {
 }
 const db = async () => {
     const mongo = await getMongo()
-    return mongo.db("myblog")
+    return mongo.db("myblo")
 }
 module.exports = db;
