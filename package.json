@@ -1,0 +1,23 @@
+{
+  "name": "blogging",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sunainahsan/blogging.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sunainahsan/blogging/issues"
+  },
+  "homepage": "https://github.com/Sunainahsan/blogging#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongo": "^0.1.0"
+  }
+}
